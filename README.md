@@ -56,8 +56,8 @@ Example:
    - Create a `.env` file in the root directory with your database credentials:
      ```
      PORT=5000
-    JWT_SECRET=your-secret-key
-    DATABASE_URL=postgresql://user:password@localhost:5432/db
+     JWT_SECRET=your-secret-key
+     DATABASE_URL=postgresql://user:password@localhost:5432/db
      ```
 
 4. Start the backend:
